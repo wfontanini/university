@@ -1,8 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom" xml:base="https://github.com/wfontanini/">
+<feed xmlns="http://www.w3.org/2005/Atom" xml:base="https://github.com/wfontanini/university">
     <title>WFontanini Academic</title>
-    <link href="https://github.com/wfontanini//feed.xml" rel="self" >
-    <link href="https://github.com/wfontanini/" >
-    <updated>2026-06-18T05:44:52Z</updated>
-    <id>https://github.com/wfontanini/</id>
+    <link href="https://github.com/wfontanini/university/feed.xml" rel="self" >
+    <link href="https://github.com/wfontanini/university" >
+    <updated>2026-06-18T05:45:13Z</updated>
+    <id>https://github.com/wfontanini/university</id>
+        <entry>
+            <title>
+                notes
+                
+            </title>
+            <updated>2026-06-18T05:45:02Z</updated>
+            <id>https://github.com/wfontanini/university/</id>
+            <content type="html">
+                &lt;p&gt;Benvenuti in questo corso!&lt;br /&gt;
+TEST 4&lt;/p&gt;
+
+            </content>
+            <link href="https://github.com/wfontanini/university/" >
+        </entry>
 </feed>
